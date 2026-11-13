@@ -1,0 +1,12 @@
+# BissAdder settings
+# Lines starting with # are ignored. Copy this file to /etc/tuxbox/config/BissAdder.conf
+# (the installer does it for you).
+
+# Full path of your SoftCam.Key file.
+# Linux is case-sensitive: SoftCam.Key and softcam.key are different files.
+# Leave this commented to let the plugin detect it automatically.
+#key_file = /etc/tuxbox/config/SoftCam.Key
+
+# Command used to restart the softcam after saving (optional).
+# Leave commented to let the plugin try the common ones.
+#restart_cmd = /etc/init.d/softcam restart
