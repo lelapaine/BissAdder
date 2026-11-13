@@ -7,7 +7,7 @@ calculated automatically from the channel). Light, no background process, Python
 ## Install (one line, telnet/SSH)
 
 ```
-wget -q --no-check-certificate -O - https://raw.githubusercontent.com/YOUR_USER/BissAdder/main/installer.sh | sh
+wget -q --no-check-certificate -O - https://raw.githubusercontent.com/lelapaine/BissAdder/main/installer.sh | sh
 ```
 
 The receiver GUI restarts at the end. The plugin appears in the Plugins menu and the
