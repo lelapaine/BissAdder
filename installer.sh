@@ -1,7 +1,7 @@
 #!/bin/sh
 # BissAdder one-line installer for Enigma2 receivers.
 # Usage (one line, in telnet/SSH):
-#   wget -q --no-check-certificate -O - https://raw.githubusercontent.com/YOUR_USER/BissAdder/main/installer.sh | sh
+#   wget -q --no-check-certificate -O - https://raw.githubusercontent.com/lelapaine/BissAdder/main/installer.sh | sh
 REPO="lelapaine/BissAdder"
 BRANCH="main"
 
